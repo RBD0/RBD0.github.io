@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
-  align: right
+  align: justify
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -27,6 +27,10 @@ latest_posts:
   limit: 3  # leave blank to include all the blog posts
 ---
 
-I am a final year dual degree (B.Tech and M.Tech) student at IIT Delhi studying Mathematics and Computing. I am primarily interested in Post-Quantum Cryptography, specifically Isogeny-Based Cryptography. 
+I am a final year dual degree (B.Tech and M.Tech) student at [IIT Delhi](https://home.iitd.ac.in/)majoring in Mathematics and Computing. My research interests include cryptography, with a focus on Isogeny-based cryptography.
 
-I am working on my M.Tech. project under the guidance of [Prof. Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) and [Prof. Surjeet Kour](https://sites.google.com/view/surjeetkour).
+I am currently writing my M.Tech. thesis on "Cryptographic Primitives through Group Actions" under the supervision of [Prof. Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) and [Prof. Surjeet Kour](https://sites.google.com/view/surjeetkour).
+
+Previously, I interned at [MSO Lab](https://www.msolab.org/), where I worked on an approximation algorithm for an NP-hard scheduling problem under the guidance of [Prof. Kangbok Lee](https://sites.google.com/site/kangbokstudy/). 
+
+Through coursework at the [Mathematics Departments of IIT Delhi](https://maths.iitd.ac.in/) and [POSTECH Mathematical Institute](https://pmi.postech.ac.kr/), I have also gained extensive training in Algebra and Number Theory.
