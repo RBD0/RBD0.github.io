@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Aravali Hostel</p>
+    <p>Verification Lab</p>
     <p>IIT Delhi, Hauz Khas</p>
     <p>Delhi, 110016</p>
 
