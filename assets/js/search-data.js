@@ -347,9 +347,9 @@ ninja.data = [{
       },
     },{id: "post-a-post-with-math",
       
-        title: "a post with math",
+        title: "A Post with Math",
       
-      description: "an example of a blog post with some math",
+      description: "An example of a blog post with some math",
       section: "Posts",
       handler: () => {
         
