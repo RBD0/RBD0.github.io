@@ -41,7 +41,7 @@ ninja.data = [{
       
         title: "On Monic Square-Free Polynomials over a Finite Field",
       
-      description: "",
+      description: "COL863",
       section: "Posts",
       handler: () => {
         
