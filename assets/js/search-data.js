@@ -169,17 +169,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
-    },{id: "post-a-post-with-tikzjax",
-      
-        title: "a post with TikZJax",
-      
-      description: "this is what included TikZ code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tikzjax/";
-        
-      },
     },{id: "post-a-post-with-bibliography",
       
         title: "a post with bibliography",
@@ -349,7 +338,7 @@ ninja.data = [{
       
         title: "A Post with Math",
       
-      description: "An example of a blog post with some math",
+      description: "On Monic Square-Free Polynomials over a Finite Field.",
       section: "Posts",
       handler: () => {
         
