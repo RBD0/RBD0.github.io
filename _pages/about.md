@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.Tech. and M.Tech. in Mathematics and Computing, IIT Delhi
+subtitle: 
 
 profile:
   align: justify
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3  # leave blank to include all the blog posts
 ---
 
-I am a final year dual degree (B.Tech and M.Tech) student at [IIT Delhi](https://home.iitd.ac.in/)majoring in Mathematics and Computing. My research interests include cryptography, with a focus on Isogeny-based cryptography.
+I am a final year dual degree (B.Tech and M.Tech) student at [IIT Delhi](https://home.iitd.ac.in/) majoring in Mathematics and Computing. My research interests include cryptography, with a focus on Isogeny-based cryptography.
 
 I am currently writing my M.Tech. thesis on "Cryptographic Primitives through Group Actions" under the supervision of [Prof. Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) and [Prof. Surjeet Kour](https://sites.google.com/view/surjeetkour).
 
