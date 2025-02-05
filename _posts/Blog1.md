@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Monic Square-Free Polynomials over a Finite Fields
+title: On Monic Square-Free Polynomials over a Finite Field
 date: 2015-10-20 11:12:00-0400
 description: 
 tags: formatting, math
