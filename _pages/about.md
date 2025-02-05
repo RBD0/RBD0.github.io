@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: B.Tech. and M.Tech. in Mathematics and Computing, IIT Delhi
 
 profile:
   align: justify
