@@ -59,6 +59,17 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
+    },{id: "post-on-monic-square-free-polynomials-over-a-finite-field",
+      
+        title: "On Monic Square-Free Polynomials over a Finite Field",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/math/";
+        
+      },
     },{id: "news-ta-ed-for-mtl105-abstract-algebra-taken-by-prof-surjeet-kour",
           title: 'TA’ed for MTL105 - Abstract Algebra taken by Prof. Surjeet Kour.',
           description: "",
