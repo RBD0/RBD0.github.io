@@ -382,16 +382,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-ta-ed-for-mtl105-abstract-algebra-taken-by-prof-surjeet-kour",
+          title: 'TA’ed for MTL105 - Abstract Algebra taken by Prof. Surjeet Kour.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-attended-the-acm-india-winter-school-at-iit-madras-introduction-to-modern-cryptography",
+          title: 'Attended the ACM India Winter School at IIT Madras: Introduction to Modern Cryptography....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-will-be-taing-for-mtl101-linear-algebra-and-differential-equations-taken-by-prof-surjeet-kour",
+          title: 'I will be TAing for MTL101 - Linear Algebra and Differential Equations taken...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
