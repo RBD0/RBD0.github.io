@@ -45,7 +45,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/math/";
+          window.location.href = "/blog/2024/math/";
         
       },
     },{id: "news-ta-ed-for-mtl105-abstract-algebra-taken-by-prof-surjeet-kour",
