@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have been a Teaching Assistant for the following courses:
 
-Organize your courses by years, topics, or universities, however you like!
+1. MTL105 - Algebra: Autumn 2024.
+2. MTL101 - Linear Algebra and Differential Equations: Spring 2025.
