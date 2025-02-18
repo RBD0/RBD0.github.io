@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-on-monic-square-free-polynomials-over-a-finite-field",
+        },{id: "post-merten-39-s-theorem-for-arithmetic-progressions",
+      
+        title: "Merten&#39;s Theorem for Arithmetic Progressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/math/";
+        
+      },
+    },{id: "post-on-monic-square-free-polynomials-over-a-finite-field",
       
         title: "On Monic Square-Free Polynomials over a Finite Field",
       
