@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2024-12-15 15:59:00-0400
+date: 2025-01-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Attended the [ACM India Winter School at IIT Madras: Introduction to Modern Cryptography](https://cystar.iitm.ac.in/acm-winter-schools-2024/).
+I will be TAing for [MTL101 - Linear Algebra and Differential Equations](https://sites.google.com/view/mtl101-2024-25/home) taken by [Prof. Surjeet Kour](https://sites.google.com/view/surjeetkour).
+
+

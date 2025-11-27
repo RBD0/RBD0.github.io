@@ -27,10 +27,10 @@ latest_posts:
   limit: 3  # leave blank to include all the blog posts
 ---
 
-I am a Member of Technical Staff at Oracle Fusion Data Intelligence (FDI), where I work on synthetic data generation using generative AI models. Previously, I have finished a dual degree (B.Tech and M.Tech) student at [IIT Delhi](https://home.iitd.ac.in/) majoring in Mathematics and Computing. My research interests include cryptography, with a focus on isogeny/group action-based cryptography.
+I am currently a Member of Technical Staff at [Oracle Fusion Data Intelligence](https://www.oracle.com/in/fusion-data-intelligence/), where I work on synthetic data generation using generative AI models. I completed my B.Tech–M.Tech dual degree in Mathematics and Computing at [IIT Delhi](https://home.iitd.ac.in/) in August 2025. My primary research interest lies in cryptography.
 
-At IIT Delhi, I had the privilege of being advised by [Prof. Venkata Koppula](https://web.iitd.ac.in/~kvenkata/) under whose guidance I wrote my M.Tech. thesis on the limitations of black box group-action based IBE schemes in generic models. 
+At IIT Delhi, I had the privilege of being advised by [Prof. Venkata Koppula](https://web.iitd.ac.in/~kvenkata/). Under his guidance, I wrote my M.Tech thesis on the limitations of black-box group-action–based IBE schemes in generic models.
 
-Previously, I was a summer intern at [MSO Lab](https://www.msolab.org/), where I worked on an approximation algorithm for an NP-hard scheduling problem under the guidance of [Prof. Kangbok Lee](https://sites.google.com/site/kangbokstudy/). 
+Previously, I worked as a research intern at the [MSO Lab](https://www.msolab.org/), where I explored an approximation algorithm for an NP-hard scheduling problem under the mentorship of [Prof. Kangbok Lee](https://sites.google.com/site/kangbokstudy/). 
 
-Through coursework at the [Mathematics Departments of IIT Delhi](https://maths.iitd.ac.in/) and [POSTECH Mathematical Institute](https://pmi.postech.ac.kr/), I have also gained extensive training in Algebra and Number Theory.
+Through coursework in the [Mathematics Departments of IIT Delhi](https://maths.iitd.ac.in/) and the [POSTECH Mathematical Institute](https://pmi.postech.ac.kr/), I have gained strong and broad training in algebra and number theory, which continues to inform my research interests.
