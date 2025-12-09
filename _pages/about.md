@@ -27,9 +27,11 @@ latest_posts:
   limit: 3  # leave blank to include all the blog posts
 ---
 
-I am currently a Member of Technical Staff at [Oracle Fusion Data Intelligence](https://www.oracle.com/in/fusion-data-intelligence/), where I work on synthetic data generation using generative AI models. I completed my B.Tech–M.Tech dual degree in Mathematics and Computing at [IIT Delhi](https://home.iitd.ac.in/) in August 2025. My primary research interest lies in cryptography.
+<!-- I am currently a Member of Technical Staff at [Oracle Fusion Data Intelligence](https://www.oracle.com/in/fusion-data-intelligence/), where I work on synthetic data generation using generative AI models.  -->
 
-At IIT Delhi, I had the privilege of being advised by [Prof. Venkata Koppula](https://web.iitd.ac.in/~kvenkata/). Under his guidance, I wrote my M.Tech thesis on the limitations of black-box group-action–based IBE schemes in generic models.
+I completed my B.Tech–M.Tech dual degree in Mathematics and Computing at [IIT Delhi](https://home.iitd.ac.in/) in August 2025. My primary research interest lies in cryptography.
+
+At IIT Delhi, I had the privilege of being advised by [Prof. Venkata Koppula](https://web.iitd.ac.in/~kvenkata/). Under his guidance, I wrote my [M.Tech thesis](https://rbd0.github.io/MTech-Project/main.pdf) on the limitations of black-box group-action–based IBE schemes in generic models.
 
 Previously, I worked as a research intern at the [MSO Lab](https://www.msolab.org/), where I explored an approximation algorithm for an NP-hard scheduling problem under the mentorship of [Prof. Kangbok Lee](https://sites.google.com/site/kangbokstudy/). 
 
